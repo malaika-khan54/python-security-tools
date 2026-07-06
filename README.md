@@ -16,6 +16,10 @@ A Python tool that evaluates a password based on common security requirements:
 
 The tool labels passwords as Weak, Moderate, or Strong and gives suggestions for improvement.
 
+## Example Output
+
+![Password Strength Analyzer Test](proof.png)
+
 ## How to Run
 
 1. Download or clone this repository.
