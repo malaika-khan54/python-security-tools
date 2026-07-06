@@ -54,3 +54,5 @@ if feedback:
         print(f"- {item}")
 else:
     print("\nGreat job. Your password meets all recommended requirements.")
+    
+input("\nPress Enter to exit...")
